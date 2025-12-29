@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman Yadav</h1>
-<h3 align="center">Cloud & DevOps Enthusiast | AWS | Linux | Docker | Ansible | Kubernetes | Jenkins | Terraform | Git | Github</h3>
+<h3 align="center">Cloud & DevOps Enthusiast | Python | AWS | Linux | Docker | Ansible | Kubernetes | Jenkins | Terraform | Git | Github</h3>
 
 ---
 
@@ -14,7 +14,6 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/suman-yadav-2972a71a1/
 - 🧑‍💻 GitHub: https://github.com/suman526
 - ✍️ Medium: https://suman15.medium.com/
-- 📧 Email: yadavsuman2678@gmail.com
 
 ---
 
@@ -33,17 +32,6 @@
 - 🔹 **LVM Integrated with Hadoop for Elastic Storage**
 
 👉 Project links available on my GitHub & Medium
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=suman526&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suman526&theme=tokyonight" />
-</p>
 
 ---
 
