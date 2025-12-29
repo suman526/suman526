@@ -30,8 +30,13 @@
 - 🔹 **Apache Web Server Automation using Docker & Ansible**
 - 🔹 **Hadoop Automation using Ansible**
 - 🔹 **LVM Integrated with Hadoop for Elastic Storage**
+- 🔹 **Daily cloud health check on aws**
+- 🔹 **Deploying a-m Node Js Application on AWS EC2**
+- 🔹 **Kubernetes cluster on aws**
+- 🔹 **A MULTI-CLOUD SETUP OF K8S CLUSTER**
+- - 🔹 **Flutter Chat App, Docker App, Linux App Development**
 
-👉 Project links available on my GitHub & Medium
+👉 Project links available on my GitHub & Medium & LinkedIn
 
 ---
 
