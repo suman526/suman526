@@ -34,7 +34,7 @@
 - 🔹 **Deploying a-m Node Js Application on AWS EC2**
 - 🔹 **Kubernetes cluster on aws**
 - 🔹 **A MULTI-CLOUD SETUP OF K8S CLUSTER**
-- - 🔹 **Flutter Chat App, Docker App, Linux App Development**
+- 🔹 **Flutter Chat App, Docker App, Linux App Development**
 
 👉 Project links available on my GitHub & Medium & LinkedIn
 
