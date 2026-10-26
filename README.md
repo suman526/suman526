@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Suman Yadav</h1>
-<h3 align="center">Cloud & DevOps Enthusiast | Python | AWS | Linux | Docker | Ansible | Kubernetes | Jenkins | Terraform | Git | Github</h3>
+<h3 align="center">Cloud & DevOps Enthusiast | Python | AWS | Linux | Docker | Ansible | Kubernetes | Jenkins | Terraform | Git | Github | Networking | Devops</h3>
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech (Electrical & Electronics) – Banasthali University  
 - ☁️ Learning & building projects in **Cloud & DevOps**
-- 🐧 Strong in **Linux, Git, AWS, Devops fundamentals**
+- 🐧 Strong in **Linux, Git, AWS, Devops, Networking**
 - ✍️ I write technical blogs on Medium
 ---
 
@@ -19,12 +19,15 @@
 
 ### 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,aws,docker,git,github,python,ansible,terraform,kubernetes,jenkins" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,git,github,python,ansible,terraform,kubernetes,jenkins,devsecops," />
 </p>
 
 ---
 
 ### 🚀 Projects
+- 🔹 **From Docker to Kubernetes: A Real-World Two-Tier Flask + MySQL Deployment**
+- 🔹 **Automated CI/CD Pipeline with Jenkins, SonarQube, and Docker on AWS**
+- 🔹 **daily-cloud-health-check-aws**
 - 🔹 **High Availability Architecture (AWS CLI + EBS)**
 - 🔹 **AWS S3 + CloudFront Static Website**
 - 🔹 **Apache Web Server Automation using Docker & Ansible**
