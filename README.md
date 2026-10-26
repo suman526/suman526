@@ -19,7 +19,7 @@
 
 ### 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,aws,docker,git,github,python,ansible,terraform,kubernetes,jenkins,devops,flutter" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,git,github,python,ansible,terraform,kubernetes,jenkins,prometheus,grafana,flutter" />
 </p>
 
 ---
