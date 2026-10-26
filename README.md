@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman Yadav</h1>
-<h3 align="center">Cloud & DevOps Enthusiast | Python | AWS | Linux | Docker | Ansible | Kubernetes | Jenkins | Terraform | Git | Github | Networking | Devops</h3>
+<h3 align="center">Cloud & DevOps Enthusiast | Python | AWS | Linux | Docker | Ansible | Kubernetes | Jenkins | Terraform | Git | Github | Networking | Devops | Flutter</h3>
 
 ---
 
@@ -19,7 +19,7 @@
 
 ### 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,aws,docker,git,github,python,ansible,terraform,kubernetes,jenkins,devsecops," />
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,git,github,python,ansible,terraform,kubernetes,jenkins,devsecops,flutter" />
 </p>
 
 ---
