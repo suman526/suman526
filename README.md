@@ -46,9 +46,7 @@
 
 ⭐ *Learning every day. Building step by step.*
 
-## ☕ Support My Work
-
-### Support My Work
+### ☕ Support My Work
 
 If you find my projects, technical articles, or open-source contributions valuable, you can support my work by buying me a coffee. Your support helps me continue developing useful projects and sharing knowledge with the developer community.
 Thank you for your support and encouragement!
