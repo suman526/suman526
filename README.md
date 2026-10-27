@@ -30,6 +30,7 @@
 - 🔹 **daily-cloud-health-check-aws**
 - 🔹 **High Availability Architecture (AWS CLI + EBS)**
 - 🔹 **AWS S3 + CloudFront Static Website**
+- 🔹 **Python-based interactive Linux administration tool**
 - 🔹 **Apache Web Server Automation using Docker & Ansible**
 - 🔹 **Hadoop Automation using Ansible**
 - 🔹 **LVM Integrated with Hadoop for Elastic Storage**
