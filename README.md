@@ -19,12 +19,13 @@
 
 ### 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,aws,docker,git,github,python,ansible,terraform,kubernetes,jenkins,prometheus,grafana,flutter" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,git,github,python,ansible,terraform,kubernetes,jenkins,prometheus,grafana,flutter," />
 </p>
-
+![Trivy](https://shields.io) ![SonarQube](https://shields.io) ![Helm](https://shields.io)
 ---
 
 ### 🚀 Projects
+- 🔹 **Building an End-to-End DevOps CI/CD Pipeline for an Amazon Prime Video Clone Using AWS, Terraform, Jenkins, Docker, Kubernetes, Argo CD, Prometheus and Grafana**
 - 🔹 **From Docker to Kubernetes: A Real-World Two-Tier Flask + MySQL Deployment**
 - 🔹 **Automated CI/CD Pipeline with Jenkins, SonarQube, and Docker on AWS**
 - 🔹 **daily-cloud-health-check-aws**
